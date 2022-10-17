@@ -4,26 +4,27 @@
     margin: 0;
 }
 
+/* Set background color for full page */
 body {
     background-color: #d9dcd6;
 }
-
+/* Style header at top of page */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Align logo with text within header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Change text color */
 header h1 span {
     color: #d9dcd6;
 }
-
+/* Align nav links in header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,17 +36,17 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
-
+/* List elements horizontally - not vertically */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Change nav links to white text without underline */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Unique selector for large image */
 #background {
     height: 800px;
     width: 100%;
@@ -54,7 +55,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-
+/* Make room for aside */
 main {
     width: 75%;
     display: inline-block;
@@ -64,7 +65,7 @@ main {
 p {
     font-size: 16px;
 }
-
+/* Style articles as blue boxes */
 main article {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,7 +93,7 @@ main article h2 {
     float: right;
     margin-left: 25px;
 }
-
+/* Style side bar as blue rectangle on right side of main content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -113,13 +114,12 @@ aside article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Resize and fit icons into side bar */
 aside article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 footer {
     padding: 30px;
