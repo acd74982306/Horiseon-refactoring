@@ -18,7 +18,7 @@ Tasks completed during refactoring
 Users will be able to view webpage content on desktop at **https://acd74982306.github.io/Horiseon-refactoring/**.
 
 ## Preview
-![Screenshot](127.0.0.1_5500_index.html.png) | width=50)
+![Screenshot](127.0.0.1_5500_index.html.png)
 
 ## Devleopment
 The page can be further improved by adding adaptability to screen size. Currently only functional on desktop.
