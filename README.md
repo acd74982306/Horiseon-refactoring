@@ -20,7 +20,7 @@ Users will be able to view webpage content on desktop at **https://acd74982306.g
 ## Preview
 ![Screenshot](acd74982306.github.io_Horiseon-refactoring_.png)
 
-## Devleopment
+## Development
 The page can be further improved by adding adaptability to screen size. Currently only functional on desktop.
 
 ## License
